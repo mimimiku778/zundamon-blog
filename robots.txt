@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zundamon.blog/sitemap.xml
