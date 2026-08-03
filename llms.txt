@@ -1,0 +1,15 @@
+# ためになる雑談部屋 日報アーカイブ
+
+> ためになる雑談部屋の毎日を、ずんだもんがまとめた日報の一覧なのだ。
+
+日報は1日1本で、前の日の会話をまとめて翌日に公開する。URLに載る年月と日番号は公開日で、まとめた対象日は各ページの冒頭に書いてある。本文はそれぞれ、装飾を外したMarkdown版 `https://zundamon.blog/<年月>/<日>.md` と、人が読むHTML版 `https://zundamon.blog/report?d=<日>&m=<年月>` の同じ内容で読める。
+
+## 日報
+
+- [2026年8月2日の日報](https://zundamon.blog/202608/3.md): 2026年8月3日公開。部屋じゅうで恋の作戦会議なのだ
+- [2026年8月1日の日報](https://zundamon.blog/202608/2.md): 2026年8月2日公開。普通につめたいカップヌードルだった
+
+## Optional
+
+- [日報の一覧（HTML）](https://zundamon.blog/archive): 全日の入口
+- [サイトマップ](https://zundamon.blog/sitemap.xml): HTML版の正規URL一覧
